@@ -6,4 +6,4 @@ Suivez les étapes suivantes pour réaliser l'exercice 3 :\
 — Vérifier que l’on est à jour par rapport à la version distante\
 — Créer localement une branche liée à la nouvelle contribution de l’utilisateur\
 — Déposer sa branche en ligne sur son propre dépôt\
-— Proposer un pull request sur le dépôt original.\
+— Proposer un pull request sur le dépôt original.
